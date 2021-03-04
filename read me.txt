@@ -2,9 +2,9 @@ In our project (Education_of_coronavirus)
 the page1.m should be run first . 
 And you'd better do the final test to examine yourself.
 
-Files contained in zip.
+Files contained
 
-1. Education_of_coronavirus (All the codes)
+1. Education_of_coronavirus (All the codes, except videos)
 
 2. GUI Instruction (Structure)
 
@@ -13,5 +13,6 @@ One ducument:
 基于MATLAB的GUI界面设计制作疫情状况分析模型
 
 If you have any question about our projecr or our project is not suitable.
+the videos cannot upload, u can contact us to get it and run the project.
 Please contact us immediately, my E-mail: 1528794039@qq.com or duanju@mail.uc.edu 
 Thanks for checking and may you have a good day. Best wishes!!!!
